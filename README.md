@@ -1,3 +1,5 @@
-# feup-RCOM
+# FEUP-RCOM
 
-Repository containing Project 1 and Project 2 from the Computer Networks course unit at FEUP.
+Projects of the Computer Networks course unit at FEUP.
+
+[**RCOM Unit Info**](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501687)
